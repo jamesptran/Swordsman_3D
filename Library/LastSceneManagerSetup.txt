@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_Scene/Dungeon/LevelScene.unity
+  isLoaded: 1
+  isActive: 1
